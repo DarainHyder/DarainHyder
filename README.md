@@ -1,5 +1,5 @@
 - Hi, I’m @DarainHyder.
-- I’m interested in Data Analysis, UI/UX and Graphics Designing.
+- I’m interested in Data Science , Data Analysis, UI design.
 - I’m currently doing BS Computer Science.
 - I’m looking to collaborate on projects that fascinate me.
 - How to reach me through my Instagram which is "sawab_e_darain"and my Linkedin account link is "https://www.linkedin.com/in/syed-darain-hyder-kazmi-a45a70306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
