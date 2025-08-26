@@ -1,5 +1,6 @@
-<h1 align="center">Hey there 👋, I'm <a href="https://github.com/DarainHyder">Darain Hyder</a></h1>
-<h3 align="center">BS Computer & Information Sciences Student | Data Science • ML Enthusiast • NLP & Computer Vision Practitioner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Darain+Hyder;Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -42,6 +43,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" alt="stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" alt="top-langs" height="165"/>
+</p>
+
+---
+
+### 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarainHyder&theme=radical" alt="profile summary"/>
 </p>
 
 ---
