@@ -1,13 +1,5 @@
-<!-- =========================
-     PROFILE README (paste into DarainHyder/DarainHyder README.md)
-     ========================= -->
-
-<h1 align="center">Hi there 👋 I'm <strong>Darain Hyder</strong></h1>
-<h3 align="center">BS Computer & Information Sciences | Data Science • ML • NLP & Computer Vision</h3>
-
-<!-- Typing animation — NOT including your name (name is static above) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision;Building+real-world+ML+systems" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Darain+Hyder;Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,20 +24,17 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-FF4088?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3792CB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
-
-### 🌟 Featured Projects
-*(Replace these with your pinned repos — short, punchy descriptions please)*
-
-- 🔹 **Checkers Game** — OOP Java game with animations & sound.  
-- 🔹 **Word Puzzle Solver** — C++ Trie + Backtracking solution for word-search.  
-- 🔹 **Heart Attack Risk Analysis** — Python data-cleaning + predictive modeling.  
 
 ---
 
@@ -58,17 +47,30 @@
 
 ---
 
-### 🎮 Contributions → TETRIS (game-like animation, not snake)
-Below is a neat alternative to the common “snake eats contributions” trick: **Tetris blocks falling through your GitHub contribution grid**.  
-I added a placeholder image tag here — once you generate the GIF (instructions below), place the generated `github_tetris.gif` file in this profile repo root and the GIF will show up here.
+### 📈 Profile Summary
 
-<center>
-  <!-- local (recommended): ./github_tetris.gif (you'll generate this and commit it) -->
-  ![Contribution Tetris](./github_tetris.gif)
-</center>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarainHyder&theme=radical" alt="profile summary"/>
+</p>
 
-#### How to generate the Tetris GIF (quick & manual)
-1. Clone the generator repo:
-```bash
-git clone https://github.com/debba/gh-contributions-tetris-gif-maker.git
-cd gh-contributions-tetris-gif-maker
+---
+
+### 💡 Dev Quote
+<p align="center"><i>“Code first, regret later.”</i></p>
+
+---
+
+### 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-darain-hyder-kazmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:darainhyder21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for scrolling this far (you weirdo). ✨</p>
+
+<!---
+DarainHyder/DarainHyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
