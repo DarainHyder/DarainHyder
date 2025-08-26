@@ -1,9 +1,39 @@
-- Hi, I’m @DarainHyder.
-- I’m interested in Data Science , Data Analysis, UI design.
-- I’m currently doing BS Computer Science.
-- I’m looking to collaborate on projects that fascinate me.
-- How to reach me through my Instagram which is "sawab_e_darain"and my Linkedin account link is "https://www.linkedin.com/in/syed-darain-hyder-kazmi-a45a70306?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-- You can also contact me on Whatsapp (+923433055357).
+## Hey there! I'm Darain Hyder
+
+BS Computer & Information Sciences student | Data Science • ML Enthusiast • NLP / Computer Vision Practictioner
+
+Currently hacking away at algorithms, scraping the web, building models, and trying not to break the internet. Open to collaborations, debugging sessions fueled by caffeine, or existential code crises. Fun fact: I’ve written code that confuses even me (and I wrote it). Reach out: you@example.com | [LinkedIn](your-linkedin-url)
+
+---
+
+##  Skills & Tools
+
+- NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • NLP • Computer Vision
+- Python • JavaScript • HTML/CSS
+- Matplotlib • Seaborn
+- SQL • Git • GitHub
+- Docker
+- FastAPI
+
+
+##  GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical)
+
+---
+
+##  Dev Quote (because every README needs that)
+
+> “Code first, regret later.”
+
+---
+
+##  Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi) • Email: darainhyder21@gmail.com
+
+✨ Thanks for scrolling this far (you weirdo). ✨
 
 <!---
 DarainHyder/DarainHyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
