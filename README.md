@@ -64,7 +64,8 @@ I added a placeholder image tag here — once you generate the GIF (instructions
 
 <center>
   <!-- local (recommended): ./github_tetris.gif (you'll generate this and commit it) -->
-  ![Contribution Tetris](./github_tetris.gif)
+  <img src="assets/tetris.gif" width="600" alt="Tetris animation"/>
+
 </center>
 
 #### How to generate the Tetris GIF (quick & manual)
