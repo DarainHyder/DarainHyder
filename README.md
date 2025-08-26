@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1903" height="188" alt="image" src="https://github.com/user-attachments/assets/747c3b20-7864-4763-a47f-843ec003cafc" /><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Darain+Hyder;Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner" alt="Typing SVG" />
 </p>
 
@@ -53,7 +53,7 @@ I added a placeholder image tag here — once you generate the GIF (instructions
 
 <center>
   <!-- local (recommended): ./github_tetris.gif (you'll generate this and commit it) -->
-  ![Contribution Tetris](./github_tetris.gif)
+  <img src="assets/tetris.gif" width="600" alt="Tetris animation"/>
 </center>
 
 #### How to generate the Tetris GIF (quick & manual)
