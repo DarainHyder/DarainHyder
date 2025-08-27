@@ -60,7 +60,6 @@
 
 ---
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/DarainHyder/DarainHyder/output/snake-dark.svg#gh-dark-mode-only)
 
 ### 🌐 Let’s Connect
 
