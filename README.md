@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -51,6 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" alt="stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" alt="top-langs" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarainHyder&theme=radical" alt="streak stats" height="165"/>
 </p>
 
 ---
@@ -68,13 +68,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
 </p>
 
-
 ---
+
 ### 💡 Dev Quote
 <p align="center"><i>“Code first, regret later.”</i></p>
 
 ---
-
 
 ### 🌐 Let’s Connect
 
