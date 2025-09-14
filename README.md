@@ -108,5 +108,5 @@
 <p align="center">✨ Thanks for scrolling this far (you weirdo). ✨</p>
 
 <!---
-DarainHyder/DarainHyder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 --->
