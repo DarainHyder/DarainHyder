@@ -84,10 +84,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/github-contribution-grid-snake.svg)
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/output/github-contribution-grid-snake.svg" alt="snake animation"/>  
-</p>  
-
 ---
 
 ### 👀 Profile Views  
