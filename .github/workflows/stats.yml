@@ -1,32 +1,30 @@
-name: Update GitHub Profile Stats
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:        # manual trigger
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Contribution Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: DarainHyder
-          outputs: |
-            ./output/github-contribution-grid-snake.svg
-            ./output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Update README with GitHub Stats
+        run: |
+          echo "Updating stats..."
+          # Placeholder – GitHub stats is usually shown via shields or vercel deploys
+          # If you just want dynamic images in README, no need to rebuild locally
 
-      - name: Commit changes
+      - name: Commit & Push changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "chore: auto-update README + snake [skip ci]" || echo "No changes to commit"
-          git push
+          git commit -m "chore: update stats [skip ci]" || echo "no changes to commit"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
