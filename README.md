@@ -58,11 +58,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">  
-  <!-- Auto-updated by GitHub Actions -->
   <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" alt="stats" height="165"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" alt="top-langs" height="165"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarainHyder&theme=radical" alt="streak stats" height="165"/>  
+  <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical" alt="streak stats" height="165"/>  
 </p>  
+ 
 
 ---
 
