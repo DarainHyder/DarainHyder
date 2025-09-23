@@ -60,7 +60,9 @@
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" alt="stats" height="165"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" alt="top-langs" height="165"/>  
-  <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" height="165"/>
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarainHyder&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
 </p>  
  
 
