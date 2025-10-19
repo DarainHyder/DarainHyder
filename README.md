@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Darain's Universe Header"/>
+  <img src="./assets/header.png" width="100%" alt="Darain's Universe Header"/>
 </p>
 
 <h2 align="center">Hey 👋, I’m Syed Darain Hyder Kazmi</h2>
