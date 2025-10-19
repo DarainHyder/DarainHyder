@@ -1,5 +1,9 @@
+<p align="center">
+  ## Welcome to Darain Hyder World!!!
+</p>
+
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Darain+Hyder;Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner" alt="Typing SVG" /> 
 </p>
 
 ---
@@ -9,7 +13,7 @@
 - 🌱 Exploring **Data Science, NLP, and Computer Vision**  
 - 👯 Open to collaborations, debugging marathons & caffeine-powered coding  
 - ⚡ Fun fact: I’ve written code that confuses even me (and I wrote it)  
-- 📫 Reach out: [Portfolio](darainhyder.netlify.app)**darainhyder21@gmail.com** | [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi)  
+- 📫 Reach out: [Portfolio](darainhyder.netlify.app) | **darainhyder21@gmail.com** | [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi)  
 
 ---
 
