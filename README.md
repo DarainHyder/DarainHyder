@@ -20,12 +20,6 @@
   to { text-shadow: 0 0 20px #ffc0cb, 0 0 40px #ffc0cb, 0 0 80px #ffc0cb; }
 }
 </style>
-
-<!-- Typing Animation (clean + full + balanced speed) -->
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4200&pause=1200&color=FF4B91&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+a+Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner;Learning+Creating+and+Pushing+Boundaries" alt="Typing SVG" /> 
-</p>
-
 ---
 
 ### 🌌 About Me  
