@@ -9,7 +9,7 @@
 - 🌱 Exploring **Data Science, NLP, and Computer Vision**  
 - 👯 Open to collaborations, debugging marathons & caffeine-powered coding  
 - ⚡ Fun fact: I’ve written code that confuses even me (and I wrote it)  
-- 📫 Reach out: **darainhyder21@gmail.com** | [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi)  
+- 📫 Reach out: [Portfolio](darainhyder.netlify.app)**darainhyder21@gmail.com** | [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi)  
 
 ---
 
