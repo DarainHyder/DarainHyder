@@ -1,10 +1,13 @@
 <p align="center">
-  **Welcome to Darain Hyder World!!!**
+  <h1 style="font-family: 'Poppins', sans-serif; font-weight: 800; font-size: 42px; color: #F75C7E;">
+    <b>✨ Welcome to Darain Hyder's World ✨</b>
+  </h1>
 </p>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=F75C7E&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+a+Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner;Always+Learning+%7C+Building+%7C+Improving" alt="Typing SVG" /> 
 </p>
+
 
 ---
 
