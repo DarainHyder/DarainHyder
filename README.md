@@ -1,6 +1,6 @@
 <!-- Aesthetic & Centered Header -->
 <h1 align="center" style="font-family: 'Cinzel Decorative', serif; font-weight: 700; font-size: 48px; color: #ff4b91; letter-spacing: 2px;">
-  <b>Welcome to Darain Hyder World</b>
+  <b>Welcome to Darain Hyder World!!!</b>
 </h1>
 
 <!-- Typing Animation (slower + fixed typo + better pacing) -->
