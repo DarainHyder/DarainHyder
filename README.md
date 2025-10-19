@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/header.png" width="100%" alt="Darain's Universe Header"/>
+  <img src="./assets/header.svg" width="100%" alt="Darain's Universe Animated Header"/>
 </p>
+
 
 ---
 
