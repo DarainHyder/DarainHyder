@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Darain's Universe Animated Header"/>
-</p> 
+![Header](./assets/header.svg)
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=A5B4FC&center=false&vCenter=true&width=435&lines=Data+Science+Wizard;Deep+Learning+Architect;AI%2FML+Engineer;Neural+Networks+Expert;Data+Analytics+Maestro" alt="Typing SVG" />
+</div>
 
 ---
 
