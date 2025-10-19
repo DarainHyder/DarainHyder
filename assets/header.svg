@@ -1,33 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0" stop-color="#ff4b91"/>
-      <stop offset="0.5" stop-color="#ffc0cb"/>
-      <stop offset="1" stop-color="#ff7ab0"/>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF4B91">
+        <animate attributeName="stop-color" values="#FF4B91;#FF8FAB;#FFD6EC;#FF4B91" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FFD6EC">
+        <animate attributeName="stop-color" values="#FFD6EC;#FF8FAB;#FF4B91;#FFD6EC" dur="6s" repeatCount="indefinite" />
+      </stop>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#0a0a0a" />
+      <stop offset="100%" stop-color="#000000" />
+    </radialGradient>
+
+    <style>
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+      @keyframes fade {
+        0%,100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+      text {
+        font-family: 'Poppins', sans-serif;
+        text-anchor: middle;
+      }
+      .title {
+        font-size: 64px;
+        font-weight: 800;
+        fill: url(#textGradient);
+        animation: float 4s ease-in-out infinite;
+      }
+      .subtitle {
+        font-size: 22px;
+        fill: #f2f2f2;
+        opacity: 0.8;
+        animation: fade 3s ease-in-out infinite;
+      }
+      circle {
+        fill: #ff4b91;
+        opacity: 0.15;
+        animation: float 8s ease-in-out infinite alternate;
+      }
+    </style>
   </defs>
 
-  <!-- background transparent so it fits any theme -->
-  <rect width="100%" height="100%" fill="transparent"/>
+  <rect width="1200" height="400" fill="url(#bgGradient)" />
 
-  <!-- text with gradient fill and glow filter -->
-  <text x="50%" y="55%" font-family="Orbitron, 'Segoe UI', Roboto, sans-serif"
-        font-weight="700" font-size="48" text-anchor="middle" fill="url(#g)" filter="url(#glow)"
-        letter-spacing="2">
-    Welcome to Darain Hyder World
-  </text>
+  <!-- floating orbs -->
+  <circle cx="300" cy="200" r="80" />
+  <circle cx="900" cy="250" r="100" />
+  <circle cx="600" cy="120" r="60" />
 
-  <!-- subtitle line -->
-  <text x="50%" y="82%" font-family="Inter, Roboto, sans-serif"
-        font-size="16" text-anchor="middle" fill="#b28">
-    Data Science · NLP · Computer Vision
-  </text>
+  <!-- text -->
+  <text x="50%" y="52%" class="title">Welcome to Darain’s Universe 🌌</text>
+  <text x="50%" y="75%" class="subtitle">Exploring Data • Crafting Intelligence • Redefining Innovation</text>
 </svg>
