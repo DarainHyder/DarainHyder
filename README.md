@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Darain's Universe Header"/>
+  <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/assets/header.svg" width="100%" alt="Darain's Universe Header"/>
 </p>
 
 ---
