@@ -2,12 +2,6 @@
   <img src="./assets/header.svg" width="100%" alt="Darain's Universe Header"/>
 </p>
 
-<h2 align="center">Hey , I’m Syed Darain Hyder Kazmi</h2>
-<p align="center">
-  <b>Data Scientist | AI Builder | Tech Innovator</b><br>
-  <i>Turning ideas into algorithms and data into stories.</i>
-</p>
-
 ---
 
 ### 🌌 About Me  
