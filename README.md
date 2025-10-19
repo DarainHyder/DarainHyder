@@ -1,7 +1,10 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/header.svg" width="100%" alt="Darain's Universe Animated Header"/>
-</p>
+</p> -->
 
+<p align="center">
+  <img src="./assets/animated_typing_banner.svg" width="100%" alt="Darain's Universe Animated Header"/>
+</p>
 
 ---
 
