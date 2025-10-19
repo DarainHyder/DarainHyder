@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Welcome to Darain Hyder World" />
+  <img src="header.svg" width="100%" alt="Darain's Universe Header"/>
 </p>
 
+<h2 align="center">Hey 👋, I’m Syed Darain Hyder Kazmi</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FF4B91&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+a+Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner;Learning+Creating+and+Pushing+Boundaries" alt="Typing SVG" />
+  <b>Data Scientist | AI Builder | Tech Innovator</b><br>
+  <i>Turning ideas into algorithms and data into stories.</i>
 </p>
 
 
