@@ -1,106 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 400" width="1400" height="400" role="img" aria-labelledby="title desc">
   <title id="title">Darain's Universe Header</title>
-  <desc id="desc">A glowing, animated header with smooth waves, elegant typography, and dynamic role typing animation.</desc>
+  <desc id="desc">An elegant animated header with cosmic gradients, flowing waves, and smooth role transitions.</desc>
 
   <defs>
-    <!-- Gradient background -->
+    <!-- Enhanced gradient background with more depth -->
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="50%" stop-color="#1e293b"/>
+      <stop offset="0%" stop-color="#0a0e27"/>
+      <stop offset="30%" stop-color="#1a1f3a"/>
+      <stop offset="60%" stop-color="#0f172a"/>
       <stop offset="100%" stop-color="#020617"/>
     </linearGradient>
 
-    <!-- Wave glow -->
-    <radialGradient id="glow" cx="70%" cy="30%" r="80%">
-      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.4"/>
+    <!-- Vibrant accent gradient -->
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+
+    <!-- Multi-layer glow -->
+    <radialGradient id="glow1" cx="75%" cy="25%" r="60%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.2"/>
       <stop offset="100%" stop-color="transparent"/>
     </radialGradient>
 
-    <!-- Cursor -->
-    <rect id="cursor" width="8" height="36" rx="2" fill="#c7d2fe" />
+    <radialGradient id="glow2" cx="20%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+
+    <!-- Shimmer effect -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,0.1)"/>
+      <stop offset="100%" stop-color="transparent"/>
+      <animate attributeName="x1" values="-100%;200%" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;300%" dur="3s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Glowing border -->
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#a78bfa" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#60a5fa" stop-opacity="0.3"/>
+    </linearGradient>
   </defs>
 
-  <!-- Background -->
+  <!-- Background with pattern -->
   <rect width="100%" height="100%" fill="url(#bg)" />
-
-  <!-- Glow and ambient waves -->
-  <path fill="url(#glow)" opacity="0.3">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0 220 Q350 120 700 220 T1400 220 V400 H0 Z;
-              M0 210 Q350 130 700 210 T1400 210 V400 H0 Z;
-              M0 230 Q350 110 700 230 T1400 230 V400 H0 Z;
-              M0 220 Q350 120 700 220 T1400 220 V400 H0 Z"/>
-  </path>
-
-  <circle cx="1100" cy="100" r="160" fill="url(#glow)" opacity="0.6">
-    <animate attributeName="r" values="140;160;140" dur="6s" repeatCount="indefinite"/>
+  
+  <!-- Animated background particles -->
+  <circle cx="200" cy="80" r="3" fill="#60a5fa" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="80;60;80" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="350" r="2" fill="#818cf8" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="350;330;350" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1200" cy="280" r="2.5" fill="#a78bfa" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="280;260;280" dur="5.5s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Text -->
-  <g transform="translate(120,120)">
-    <text font-family="Poppins, Segoe UI, sans-serif" font-weight="700" font-size="44" fill="#f1f5f9">
+  <!-- Multi-layer glows -->
+  <ellipse cx="1050" cy="150" rx="300" ry="200" fill="url(#glow1)" opacity="0.6">
+    <animate attributeName="rx" values="280;320;280" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="180;220;180" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  
+  <ellipse cx="250" cy="320" rx="200" ry="150" fill="url(#glow2)" opacity="0.5">
+    <animate attributeName="rx" values="200;240;200" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Enhanced flowing waves -->
+  <path fill="url(#accentGrad)" opacity="0.08">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="M0 240 Q350 140 700 240 T1400 240 V400 H0 Z;
+              M0 230 Q350 150 700 230 T1400 230 V400 H0 Z;
+              M0 250 Q350 130 700 250 T1400 250 V400 H0 Z;
+              M0 240 Q350 140 700 240 T1400 240 V400 H0 Z"/>
+  </path>
+
+  <path fill="url(#accentGrad)" opacity="0.06">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="M0 260 Q300 180 600 260 T1400 260 V400 H0 Z;
+              M0 270 Q300 170 600 270 T1400 270 V400 H0 Z;
+              M0 250 Q300 190 600 250 T1400 250 V400 H0 Z;
+              M0 260 Q300 180 600 260 T1400 260 V400 H0 Z"/>
+  </path>
+
+  <!-- Shimmer overlay -->
+  <rect width="100%" height="100%" fill="url(#shimmer)" opacity="0.3"/>
+
+  <!-- Main content -->
+  <g transform="translate(100,110)">
+    <!-- Name with glow effect -->
+    <text font-family="'Poppins', 'Segoe UI', sans-serif" font-weight="700" font-size="48" fill="url(#accentGrad)" opacity="0.15" x="2" y="2">
+      Syed Darain Hyder Kazmi
+    </text>
+    <text font-family="'Poppins', 'Segoe UI', sans-serif" font-weight="700" font-size="48" fill="#f8fafc">
       Syed Darain Hyder Kazmi
     </text>
 
-    <!-- Typing animation section -->
-    <g transform="translate(0,56)">
-      <text font-family="Poppins, sans-serif" font-weight="500" font-size="22" fill="#a5b4fc">
-        <tspan id="typingText"></tspan>
+    <!-- Animated role display (no cursor) -->
+    <g transform="translate(0,62)">
+      <text font-family="'Poppins', sans-serif" font-weight="500" font-size="24" fill="#a5b4fc">
+        <tspan>
+          <animate attributeName="opacity" 
+            values="0;1;1;1;0" 
+            keyTimes="0;0.1;0.15;0.18;0.2" 
+            dur="15s" 
+            repeatCount="indefinite" />
+          Data Science Wizard
+        </tspan>
+        <tspan>
+          <animate attributeName="opacity" 
+            values="0;0;1;1;1;0" 
+            keyTimes="0;0.2;0.3;0.35;0.38;0.4" 
+            dur="15s" 
+            repeatCount="indefinite" />
+          Deep Learning Architect
+        </tspan>
+        <tspan>
+          <animate attributeName="opacity" 
+            values="0;0;0;1;1;1;0" 
+            keyTimes="0;0.4;0.5;0.55;0.58;0.6" 
+            dur="15s" 
+            repeatCount="indefinite" />
+          AI/ML Engineer
+        </tspan>
+        <tspan>
+          <animate attributeName="opacity" 
+            values="0;0;0;0;1;1;1;0" 
+            keyTimes="0;0.6;0.7;0.75;0.78;0.8" 
+            dur="15s" 
+            repeatCount="indefinite" />
+          Neural Networks Expert
+        </tspan>
+        <tspan>
+          <animate attributeName="opacity" 
+            values="0;0;0;0;0;1;1;1;0" 
+            keyTimes="0;0.8;0.9;0.95;0.98;1" 
+            dur="15s" 
+            repeatCount="indefinite" />
+          Data Analytics Maestro
+        </tspan>
       </text>
-      <use href="#cursor" transform="translate(10,-26)">
-        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-      </use>
     </g>
 
-    <text y="110" font-family="Inter, sans-serif" font-weight="400" font-size="17" fill="#cbd5e1" opacity="0.9">
-      "Training machines to see what humans dream."
+    <!-- Tagline with subtle animation -->
+    <text y="125" font-family="'Inter', sans-serif" font-weight="400" font-size="18" fill="#e2e8f0" opacity="0.95">
+      <tspan>"Training machines to see what humans dream."</tspan>
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="4s" repeatCount="indefinite"/>
     </text>
   </g>
 
-  <!-- Quote card -->
-  <g transform="translate(830,130)">
-    <rect x="0" y="0" width="520" height="160" rx="12" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.06)"/>
-    <text x="32" y="48" font-family="Georgia, serif" font-style="italic" font-size="20" fill="#e2e8f0">
+  <!-- Enhanced quote card -->
+  <g transform="translate(800,120)">
+    <!-- Card glow -->
+    <rect x="-2" y="-2" width="564" height="184" rx="14" fill="url(#accentGrad)" opacity="0.1"/>
+    
+    <!-- Card background -->
+    <rect x="0" y="0" width="560" height="180" rx="12" fill="rgba(15,23,42,0.7)" stroke="url(#borderGlow)" stroke-width="1.5"/>
+    
+    <!-- Inner glow -->
+    <rect x="8" y="8" width="544" height="164" rx="8" fill="none" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+    
+    <text x="36" y="52" font-family="'Georgia', serif" font-style="italic" font-size="21" fill="#f1f5f9" letter-spacing="0.3">
       "In chaos, I find patterns; in data, I find stories."
     </text>
-    <text x="32" y="86" font-family="Inter, sans-serif" font-size="13" fill="#a5b4fc">— Darain's Universe</text>
-    <text x="32" y="124" font-family="Consolas, monospace" font-size="14" fill="#dbeafe">
-      &lt;code&gt;#StayCurious&lt;/code&gt;
+    <text x="36" y="94" font-family="'Inter', sans-serif" font-size="14" fill="#a5b4fc" font-weight="500">
+      — Darain's Universe
     </text>
+    
+    <!-- Animated code tag -->
+    <g transform="translate(36,118)">
+      <rect width="180" height="32" rx="6" fill="rgba(96,165,250,0.1)" stroke="rgba(96,165,250,0.2)" stroke-width="1">
+        <animate attributeName="fill" values="rgba(96,165,250,0.1);rgba(96,165,250,0.15);rgba(96,165,250,0.1)" dur="3s" repeatCount="indefinite"/>
+      </rect>
+      <text x="16" y="21" font-family="'Consolas', monospace" font-size="14" fill="#93c5fd" font-weight="500">
+        &lt;code&gt; #StayCurious
+      </text>
+    </g>
   </g>
 
-  <!-- Border -->
-  <rect x="10" y="10" width="1380" height="380" rx="18" ry="18" stroke="rgba(255,255,255,0.05)" fill="none"/>
-
-  <!-- Typing script -->
-  <script type="application/ecmascript"><![CDATA[
-    const roles = [
-      "Data Science Wizard",
-      "Deep Learning Architect",
-      "AI/ML Engineer",
-      "Neural Networks Expert",
-      "Data Analytics Maestro"
-    ];
-    const textElem = document.getElementById("typingText");
-    let index = 0;
-    let charIndex = 0;
-    let deleting = false;
-
-    function type() {
-      const current = roles[index];
-      if (!deleting) {
-        textElem.textContent = current.substring(0, charIndex++);
-        if (charIndex > current.length + 10) deleting = true;
-      } else {
-        textElem.textContent = current.substring(0, charIndex--);
-        if (charIndex < 0) {
-          deleting = false;
-          index = (index + 1) % roles.length;
-        }
-      }
-      setTimeout(type, deleting ? 70 : 100);
-    }
-    type();
-  ]]></script>
+  <!-- Glowing animated border -->
+  <rect x="10" y="10" width="1380" height="380" rx="20" ry="20" stroke="url(#borderGlow)" stroke-width="2" fill="none">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Corner accents -->
+  <circle cx="30" cy="30" r="4" fill="#60a5fa" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1370" cy="30" r="4" fill="#818cf8" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="30" cy="370" r="4" fill="#a78bfa" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1370" cy="370" r="4" fill="#60a5fa" opacity="0.6">
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </circle>
 </svg>
