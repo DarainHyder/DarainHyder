@@ -10,12 +10,21 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently hacking away at algorithms, scraping the web, and building models  
-- 🌱 Exploring **Data Science, NLP, and Computer Vision**  
-- 👯 Open to collaborations, debugging marathons & caffeine-powered coding  
-- ⚡ Fun fact: I’ve written code that confuses even me (and I wrote it)  
-- 📫 Reach out: [Portfolio](darainhyder.netlify.app) | **darainhyder21@gmail.com** | [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi)  
+### 🌌 About Me  
+
+> *“Turning data into meaning, one bug at a time.”*  
+
+I’m the kind of person who finds beauty in messy datasets and poetry in perfectly optimized loops.  
+When I’m not busy breaking my own code (for science), I’m probably fine-tuning models, scraping insights from the web, or chasing the next spark of automation magic.  
+
+- 🔭 Currently experimenting with **algorithms that almost think**  
+- 🌱 Diving deep into **Data Science**, **NLP**, and **Computer Vision** — where logic meets imagination  
+- 👯 Always up for **collaborations**, **debugging marathons**, and **caffeine-fueled innovation**  
+- ⚡ Fun fact: Sometimes my models perform better than my sleep schedule  
+- 📫 Connect with me → [Portfolio](https://darainhyder.netlify.app) • **darainhyder21@gmail.com** • [LinkedIn](https://www.linkedin.com/in/syed-darain-hyder-kazmi)  
+
+> *“In a world of noise, I train models to listen.”*
+
 
 ---
 
