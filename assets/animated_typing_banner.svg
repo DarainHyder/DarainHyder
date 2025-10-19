@@ -1,0 +1,76 @@
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" style="background: radial-gradient(circle at center, #0f172a 0%, #020617 100%); font-family: 'Poppins', sans-serif;">
+  <style>
+    .title {
+      fill: #f8fafc;
+      font-size: 48px;
+      font-weight: 600;
+      text-anchor: middle;
+    }
+
+    .subtitle {
+      fill: #38bdf8;
+      font-size: 24px;
+      font-weight: 500;
+      text-anchor: middle;
+    }
+
+    .cursor {
+      fill: #38bdf8;
+      animation: blink 0.8s infinite;
+    }
+
+    @keyframes blink {
+      0%, 50%, 100% { opacity: 1; }
+      25%, 75% { opacity: 0; }
+    }
+
+    @keyframes typing {
+      0% { content: 'Data Scientist'; }
+      25% { content: 'AI Builder'; }
+      50% { content: 'Machine Learning Enthusiast'; }
+      75% { content: 'Full Stack Learner'; }
+      100% { content: 'Data Scientist'; }
+    }
+  </style>
+
+  <text x="400" y="150" class="title">Syed Darain Hyder Kazmi</text>
+
+  <foreignObject x="150" y="200" width="500" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color: #38bdf8; font-size: 24px; font-weight: 500; text-align: center;">
+      <span id="typing"></span><span class="cursor">|</span>
+    </div>
+  </foreignObject>
+
+  <script type="application/ecmascript"><![CDATA[
+    const titles = ["Data Scientist", "AI Builder", "Machine Learning Enthusiast", "Full Stack Learner"];
+    const typingEl = document.getElementById('typing');
+    let i = 0;
+    let charIndex = 0;
+    let isDeleting = false;
+
+    function typeEffect() {
+      const current = titles[i];
+      const display = current.substring(0, charIndex);
+      typingEl.textContent = display;
+
+      if (!isDeleting && charIndex < current.length) {
+        charIndex++;
+        setTimeout(typeEffect, 120);
+      } else if (isDeleting && charIndex > 0) {
+        charIndex--;
+        setTimeout(typeEffect, 60);
+      } else {
+        if (!isDeleting) {
+          isDeleting = true;
+          setTimeout(typeEffect, 1000);
+        } else {
+          isDeleting = false;
+          i = (i + 1) % titles.length;
+          setTimeout(typeEffect, 300);
+        }
+      }
+    }
+
+    typeEffect();
+  ]]></script>
+</svg>
