@@ -1,6 +1,8 @@
+<!-- Inline SVG header for README / web page -->
 <p align="center">
   <svg viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg" width="100%" height="400">
     <defs>
+      <!-- Animated gradient for text -->
       <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#FF4B91">
           <animate attributeName="stop-color" values="#FF4B91;#FF8FAB;#FFD6EC;#FF4B91" dur="6s" repeatCount="indefinite" />
@@ -10,6 +12,7 @@
         </stop>
       </linearGradient>
 
+      <!-- Background gradient -->
       <radialGradient id="bgGradient" cx="50%" cy="50%" r="70%">
         <stop offset="0%" stop-color="#0a0a0a" />
         <stop offset="100%" stop-color="#000000" />
@@ -25,12 +28,15 @@
       </style>
     </defs>
 
+    <!-- Background -->
     <rect width="1200" height="400" fill="url(#bgGradient)" />
 
+    <!-- Floating orbs -->
     <circle cx="300" cy="200" r="80" />
     <circle cx="900" cy="250" r="100" />
     <circle cx="600" cy="120" r="60" />
 
+    <!-- Text -->
     <text x="50%" y="52%" class="title">Welcome to Darain’s Universe 🌌</text>
     <text x="50%" y="75%" class="subtitle">Exploring Data • Crafting Intelligence • Redefining Innovation</text>
   </svg>
@@ -41,6 +47,7 @@
   <b>Data Scientist | AI Builder | Tech Innovator</b><br>
   <i>Turning ideas into algorithms and data into stories.</i>
 </p>
+
 
 ---
 
