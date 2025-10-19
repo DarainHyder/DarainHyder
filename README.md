@@ -1,29 +1,9 @@
-<!-- Glowing, Animated, Centered Header -->
-<h1 align="center" style="
-  font-family: 'Orbitron', sans-serif;
-  font-weight: 800;
-  font-size: 55px;
-  color: #ffffff;
-  text-shadow: 0 0 10px #ff4b91, 0 0 20px #ff4b91, 0 0 40px #ff4b91;
-  letter-spacing: 3px;
-  background: linear-gradient(90deg, #ff4b91, #ffc0cb, #ff4b91);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: glow 3s ease-in-out infinite alternate;
-">
-  <b>Welcome to Darain Hyder World</b>
-</h1>
+<p align="center">
+  <img src="./assets/header.svg" alt="Welcome to Darain Hyder World" />
+</p>
 
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 10px #ff4b91, 0 0 20px #ff4b91, 0 0 40px #ff4b91; }
-  to { text-shadow: 0 0 20px #ffc0cb, 0 0 40px #ffc0cb, 0 0 80px #ffc0cb; }
-}
-</style>
-
-<!-- Typing Animation (clean + full + balanced speed) -->
-<p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=4200&pause=1200&color=FF4B91&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+a+Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner;Learning+Creating+and+Pushing+Boundaries" alt="Typing SVG" /> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=FF4B91&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+a+Data+Science+%7C+ML+Enthusiast;NLP+%7C+Computer+Vision+Practitioner;Learning+Creating+and+Pushing+Boundaries" alt="Typing SVG" />
 </p>
 
 
