@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%"/>
-</div>
+![Header](./assets/header.svg)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=500&lines=Data+Science+Wizard+%E2%9C%A8;Deep+Learning+Architect+%F0%9F%A7%A0;AI%2FML+Engineer+%F0%9F%A4%96;Neural+Networks+Expert+%F0%9F%94%A5;Data+Analytics+Maestro+%F0%9F%93%8A" alt="Typing SVG" />
