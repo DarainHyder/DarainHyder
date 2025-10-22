@@ -118,27 +118,11 @@
         </tspan>
         <tspan>
           <animate attributeName="opacity" 
-            values="0;0;1;1;1;0" 
-            keyTimes="0;0.2;0.3;0.35;0.38;0.4" 
-            dur="15s" 
-            repeatCount="indefinite" />
-          Deep Learning Architect
-        </tspan>
-        <tspan>
-          <animate attributeName="opacity" 
             values="0;0;0;1;1;1;0" 
             keyTimes="0;0.4;0.5;0.55;0.58;0.6" 
             dur="15s" 
             repeatCount="indefinite" />
           AI/ML Engineer
-        </tspan>
-        <tspan>
-          <animate attributeName="opacity" 
-            values="0;0;0;0;1;1;1;0" 
-            keyTimes="0;0.6;0.7;0.75;0.78;0.8" 
-            dur="15s" 
-            repeatCount="indefinite" />
-          Neural Networks Expert
         </tspan>
         <tspan>
           <animate attributeName="opacity" 
