@@ -69,9 +69,11 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ---
 
+### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=DarainHyder&theme=radical" alt="GitHub Profile Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical" alt="GitHub Profile Trophies" />
 </p>
+
 
 
 ---
