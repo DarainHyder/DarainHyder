@@ -64,15 +64,16 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarainHyder&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.vercel.app?user=DarainHyder&theme=radical&hide_border=false&border_radius=5" alt="GitHub Streak Stats"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
+
 
 
 ---
