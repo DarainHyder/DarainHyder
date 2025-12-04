@@ -75,8 +75,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 ---
 
 ### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&no-bg=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarainHyder)
 
 
 
