@@ -60,22 +60,36 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical&hide_border=true"
+    alt="DarainHyder's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical&hide_border=true"
+    alt="Top languages"
+    height="165"
+  />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical" />
+  <img
+    src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
 </p>
 
 
