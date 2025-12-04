@@ -56,23 +56,28 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="165" alt="Top Languages"/>
+  <!-- main stats -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&count_private=true&theme=radical" height="165" />
+  <!-- top languages -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&hide_border=false&border_radius=5" alt="GitHub Streak Stats"/>
+  <!-- streak (use demolab endpoint which is reliable) -->
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&hide_border=false&border_radius=5" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
+---
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/github-contribution-grid-snake.svg)
