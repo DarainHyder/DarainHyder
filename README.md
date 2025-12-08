@@ -58,13 +58,13 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ---
 
----
-
 ### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="180" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="180" alt="Langs" />
+</div>
 
-![DarainHyder's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical)
+---
 
 ---
 
@@ -77,7 +77,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
