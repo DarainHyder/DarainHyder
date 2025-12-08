@@ -95,7 +95,10 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 ---
 
 ### 💡 Dev Quote
-<p align="center"><i>"Code first, regret later."</i></p>
+<p align="center">
+  <i>"We don't just write code; we whisper to the silicon,<br>
+  teaching sand to think and data to dream."</i>
+</p>
 
 ---
 
