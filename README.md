@@ -69,14 +69,18 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 ---
 
 ### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DarainHyder&theme=radical&hide_border=true)
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarainHyder)
-
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    </a>
+</p>
 
 
 ---
