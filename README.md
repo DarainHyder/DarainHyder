@@ -68,7 +68,9 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ### 🔥 GitHub Streak
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </a>
 </p>
 
 ---
