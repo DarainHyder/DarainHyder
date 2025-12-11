@@ -68,10 +68,11 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 ### 🔥 GitHub Streak
 <p align="center">
-    <a href="https://streak-stats.demolab.com/?user=DarainHyder&theme=dark">
-        <img src="https://streak-stats.demolab.com/?user=DarainHyder&theme=dark" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=dark&hide_border=true&id=fix1" alt="GitHub Streak" />
     </a>
 </p>
+
 
 ---
 
