@@ -1,0 +1,70 @@
+name: Update GitHub Badges
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # runs daily at 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Create assets dir
+        run: |
+          mkdir -p assets
+
+      - name: Download GitHub streak image (or write fallback)
+        run: |
+          STREAK_URL="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&hide_border=true"
+          OUT="./assets/github-streak.png"
+          if curl -fsSL -o "$OUT" "$STREAK_URL"; then
+            echo "Streak image downloaded"
+          else
+            echo "Failed to download streak image — writing fallback SVG"
+            cat > "$OUT" <<'SVG'
+            <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120">
+              <rect width="100%" height="100%" fill="#0b1220"/>
+              <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#c7d2fe" font-family="Arial" font-size="20">
+                GitHub Streak (fallback) — visit https://streak-stats.demolab.com
+              </text>
+            </svg>
+            SVG
+          fi
+
+      - name: Download GitHub trophies image (or write fallback)
+        run: |
+          TROPHY_URL="https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&column=7"
+          OUT="./assets/github-trophies.png"
+          if curl -fsSL -o "$OUT" "$TROPHY_URL"; then
+            echo "Trophies image downloaded"
+          else
+            echo "Failed to download trophies image — writing fallback SVG"
+            cat > "$OUT" <<'SVG'
+            <svg xmlns="http://www.w3.org/2000/svg" width="800" height="160">
+              <rect width="100%" height="100%" fill="#0b1220"/>
+              <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#fcd34d" font-family="Arial" font-size="20">
+                GitHub Trophies (fallback) — visit https://github-profile-trophy.vercel.app
+              </text>
+            </svg>
+            SVG
+          fi
+
+      - name: Commit and push badges if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-streak.png assets/github-trophies.png || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update GitHub streak & trophies images"
+            git push
+          fi
