@@ -60,7 +60,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 <h3 align="center">// GITHUB STATS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical&hide_rank=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="180" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="180" alt="Langs" />
 </div>
 
