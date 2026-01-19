@@ -58,6 +58,16 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
+<h3 align="center">// GITHUB STATS</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical&hide_rank=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="180" alt="Langs" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 <h3 align="center">// GITHUB STREAK</h3>
 <div align="center">
   <a href="https://github.com/DarainHyder">
