@@ -37,6 +37,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-FF4088?style=for-the-badge&logo=apache&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge&logo=opencv&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3792CB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -45,6 +46,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -121,8 +123,6 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+
 
 <p align="center">✨ Thanks for scrolling this far (you weirdo). ✨</p>
