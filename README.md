@@ -67,7 +67,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=DarainHyder&theme=radical)](https://github.com/DarainHyder)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=DarainHyder&theme=radical)](https://github.com/DarainHyder)
 
 ---
 
