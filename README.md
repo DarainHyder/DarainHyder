@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=500&lines=Data+Science+Wizard+%E2%9C%A8;Deep+Learning+Architect+%F0%9F%A7%A0;AI%2FML+Engineer+%F0%9F%A4%96;Neural+Networks+Expert+%F0%9F%94%A5;Data+Analytics+Maestro+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" height="auto" style="visibility:hidden; height:0;" />
+  <!-- Spacer/Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-### 🌌 About Me  
+<h3 align="center">🌌 About Me</h3>
 
 > *"Turning data into meaning, one bug at a time."*  
 
@@ -21,9 +25,11 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 > *"In a world of noise, I train models to listen."*
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-### 🛠️ Skills & Tools  
+<h3 align="center">🛠️ Skills & Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -52,59 +58,79 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="180" alt="Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="180" alt="Langs" />
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=DarainHyder&theme=radical)](https://github.com/DarainHyder)
+<h3 align="center">🔥 GitHub Streak</h3>
+<div align="center">
+  <a href="https://github.com/DarainHyder">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DarainHyder&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-trophies.vercel.app/?username=DarainHyder&theme=radical&row=1&column=6)](https://github.com/DarainHyder)
+<h3 align="center">🏆 GitHub Trophies</h3>
+<div align="center">
+  <a href="https://github.com/DarainHyder">
+    <img src="https://github-trophies.vercel.app/?username=DarainHyder&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+  </a>
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
+<h3 align="center">🐍 Contribution Snake</h3>
+<div align="center">
+<img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/github-contribution-grid-snake.svg)
-
----
-
-### 👀 Profile Views
+<h3 align="center">👀 Profile Views</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DarainHyder&style=for-the-badge&color=F75C7E"/>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-### 💡 Dev Quote
+<h3 align="center">💡 Dev Quote</h3>
 <p align="center">
   <i>"We don't just write code; we whisper to the silicon,<br>
   teaching sand to think and data to dream."</i>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-### 🌐 Let's Connect
+<h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/syed-darain-hyder-kazmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:darainhyder21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/sawab_e_darain?igsh=ZmpvM3EzMnNxc2Jy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <p align="center">✨ Thanks for scrolling this far (you weirdo). ✨</p>
