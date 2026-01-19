@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=1000&lines=DARAIN+HYDER;DATA+SCIENCE+WIZARD;DEEP+LEARNING+ARCHITECT;NEURAL+NETWORKS+EXPERT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=1000&lines=DARAIN+HYDER;DATA+SCIENCE+WIZARD;DEEP+LEARNING+PRACTITIONER;WEB+DEV+ALCHEMIST" alt="Typing SVG" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Turning+data+into+meaning,+one+bug+at+a+time.;In+a+world+of+noise,+I+train+models+to+listen." alt="Typing SVG Subtitle" />
 </div>
