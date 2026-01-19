@@ -5,12 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="100%" height="auto" style="visibility:hidden; height:0;" />
-  <!-- Spacer/Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">🌌 About Me</h3>
+<h3 align="center">// ABOUT ME</h3>
 
 > *"Turning data into meaning, one bug at a time."*  
 
@@ -29,7 +27,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">🛠️ Skills & Tools</h3>
+<h3 align="center">// SKILLS & TOOLS</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -62,17 +60,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="180" alt="Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="180" alt="Langs" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<h3 align="center">🔥 GitHub Streak</h3>
+<h3 align="center">// GITHUB STREAK</h3>
 <div align="center">
   <a href="https://github.com/DarainHyder">
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DarainHyder&theme=radical" alt="GitHub Streak" />
@@ -83,7 +71,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">// GITHUB TROPHIES</h3>
 <div align="center">
   <a href="https://github.com/DarainHyder">
     <img src="https://github-trophies.vercel.app/?username=DarainHyder&theme=radical&row=1&column=6" alt="GitHub Trophies" />
@@ -94,7 +82,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">// CONTRIBUTION SNAKE</h3>
 <div align="center">
 <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -103,7 +91,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">👀 Profile Views</h3>
+<h3 align="center">// PROFILE VIEWS</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=DarainHyder&style=for-the-badge&color=F75C7E"/>
 </p>
@@ -112,7 +100,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">💡 Dev Quote</h3>
+<h3 align="center">// DEV QUOTE</h3>
 <p align="center">
   <i>"We don't just write code; we whisper to the silicon,<br>
   teaching sand to think and data to dream."</i>
@@ -122,7 +110,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">🌐 Let's Connect</h3>
+<h3 align="center">// LET'S CONNECT</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/syed-darain-hyder-kazmi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:darainhyder21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
