@@ -67,12 +67,12 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarainHyder&theme=radical)](https://github.com/DarainHyder)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DarainHyder&theme=radical)](https://github.com/DarainHyder)
 
 ---
 
 ## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarainHyder&theme=radical&row=1&column=6)](https://github.com/DarainHyder)
+[![GitHub Trophies](https://github-trophies.vercel.app/?username=DarainHyder&theme=radical&row=1&column=6)](https://github.com/DarainHyder)
 
 
 
