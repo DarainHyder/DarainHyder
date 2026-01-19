@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=1000&lines=DARAIN+HYDER;DATA+SCIENCE+WIZARD;DEEP+LEARNING+ARCHITECT;NEURAL+NETWORKS+EXPERT" alt="Typing SVG" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Turning+data+into+meaning,+one+bug+at+a+time.;In+a+world+of+noise,+I+train+models+to+listen." alt="Typing SVG Subtitle" />
@@ -124,17 +120,6 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
-<p align="center">
-<code>
-while(alive) {<br/>
-&nbsp;&nbsp;eat();<br/>
-&nbsp;&nbsp;sleep();<br/>
-&nbsp;&nbsp;code();<br/>
-&nbsp;&nbsp;repeat();<br/>
-}
-</code>
-</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
