@@ -1,4 +1,5 @@
-![Header](./assets/header.svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=250&section=header&text=Darain%20Hyder&fontSize=70&fontAlign=50&animation=fadeIn&desc=Turning%20data%20into%20meaning,%20one%20bug%20at%20a%20time&descAlign=50&descSize=20&theme=radical&fontAlignY=40&descAlignY=65)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=500&lines=Data+Science+Wizard+%E2%9C%A8;Deep+Learning+Architect+%F0%9F%A7%A0;AI%2FML+Engineer+%F0%9F%A4%96;Neural+Networks+Expert+%F0%9F%94%A5;Data+Analytics+Maestro+%F0%9F%93%8A" alt="Typing SVG" />
