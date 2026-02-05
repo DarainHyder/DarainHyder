@@ -71,7 +71,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 <h3 align="center">// GITHUB STREAK</h3>
 <div align="center">
   <a href="https://github.com/DarainHyder">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DarainHyder&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
 
