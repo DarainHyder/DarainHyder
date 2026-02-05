@@ -60,8 +60,8 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 
 <h3 align="center">// GITHUB STATS</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="180" alt="Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarainHyder&show_icons=true&theme=radical" height="180" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=radical" height="180" alt="Langs" />
 </div>
 
 <div align="center">
@@ -71,7 +71,7 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
 <h3 align="center">// GITHUB STREAK</h3>
 <div align="center">
   <a href="https://github.com/DarainHyder">
-    <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=DarainHyder&theme=radical&cache_buster=1" alt="GitHub Streak" />
   </a>
 </div>
 
