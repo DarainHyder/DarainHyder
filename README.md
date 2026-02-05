@@ -90,9 +90,9 @@ When not busy breaking my own code (for science 😎), I'm fine-tuning models, s
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-<h3 align="center">// CONTRIBUTION SNAKE</h3>
+<h3 align="center">// SPACE SHOOTER</h3>
 <div align="center">
-<img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/gh-space-shooter.gif" alt="Space Shooter Animation" />
 </div>
 
 <div align="center">
