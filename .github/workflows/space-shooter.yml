@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Create output directory
+        run: mkdir -p output
+
       - name: Generate Space Shooter
         uses: czl9707/gh-space-shooter@v1.0.1
         with:
