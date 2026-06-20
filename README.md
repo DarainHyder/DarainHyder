@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1500&auto=format&fit=crop" alt="AI Neural Brain Header" width="100%" style="border-radius: 10px; margin-bottom: 20px;">
+  <img src="https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?q=80&w=1500&auto=format&fit=crop" alt="Data Fiber Optics Header" width="100%" height="200" style="object-fit: cover; object-position: center; border-radius: 10px; margin-bottom: 20px;">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=1000&lines=DARAIN+HYDER;AI+%26+ML+ENGINEER;DATA+SCIENTIST;DATABASE+ARCHITECT" alt="Typing SVG" />
   
