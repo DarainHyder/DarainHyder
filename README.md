@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1500&auto=format&fit=crop" alt="Red Data Header" width="100%" height="200" style="object-fit: cover; object-position: center; border-radius: 10px; margin-bottom: 20px;">
+  <img src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1500&auto=format&fit=crop" alt="Red Nebula Header" width="100%" height="220" style="object-fit: cover; object-position: center; border-radius: 12px; margin-bottom: 20px;">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=1000&lines=DARAIN+HYDER;AI+%26+ML+ENGINEER;DATA+SCIENTIST;DATABASE+ARCHITECT" alt="Typing SVG" />
   
@@ -193,5 +193,5 @@
 </p>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1500&auto=format&fit=crop" alt="Footer Red Tech" width="100%" height="80" style="object-fit: cover; border-radius: 10px;">
+  <img src="https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?q=80&w=1500&auto=format&fit=crop" alt="Footer Red Particles" width="100%" height="90" style="object-fit: cover; object-position: center top; border-radius: 12px;">
 </div>
