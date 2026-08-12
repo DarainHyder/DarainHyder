@@ -193,5 +193,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/assets/banner_bottom.png" alt="Bottom Banner" width="100%" style="border-radius: 12px;">
+  <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/assets/b_bottom.jfif" alt="Bottom Banner" width="100%" style="border-radius: 12px;">
 </div>
