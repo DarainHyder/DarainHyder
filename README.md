@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/assets/banner_top.png" alt="Top Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="assets/banner_top.png" alt="Top Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=1000&lines=DARAIN+HYDER;AI+%26+ML+ENGINEER;DATA+SCIENTIST;DATABASE+ARCHITECT" alt="Typing SVG" />
   
@@ -158,7 +158,7 @@
 
 <div align="center">
   <a href="https://github.com/DarainHyder">
-    <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/output/gh-space-shooter.gif" alt="Space Shooter Execution" style="border: 2px solid #FF2020; border-radius: 8px;" />
+    <img src="output/gh-space-shooter.gif" alt="Space Shooter Execution" style="border: 2px solid #FF2020; border-radius: 8px;" />
   </a>
 </div>
 
@@ -193,5 +193,5 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DarainHyder/DarainHyder/main/assets/b_bottom.jfif" alt="Bottom Banner" width="100%" style="border-radius: 12px;">
+  <img src="assets/b_banner.jfif" alt="Bottom Banner" width="100%" style="border-radius: 12px;">
 </div>
