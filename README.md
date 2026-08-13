@@ -124,8 +124,8 @@
 <h3 align="left"><code>darain@nexus:~/system$ htop --telemetry</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarainHyder&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF2020&text_color=A0A0A0&icon_color=FF2020&border_color=FF2020&hide_border=false" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF2020&text_color=A0A0A0&icon_color=FF2020&border_color=FF2020&hide_border=false" height="190" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarainHyder&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FF2020&text_color=A0A0A0&icon_color=FF2020&border_color=FF2020&hide_border=false" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarainHyder&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF2020&text_color=A0A0A0&icon_color=FF2020&border_color=FF2020&hide_border=false" height="190" alt="Top Languages" />
 </div>
 
 <br/>
