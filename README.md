@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="assets/banner_top.png" alt="Top Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="assets/header_terminal.svg" alt="darain@nexus:~$ whoami — Darain Hyder · AI & ML Engineer / Data Scientist / Database Architect" width="100%">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=FF2020&center=true&vCenter=true&width=1000&lines=DARAIN+HYDER;AI+%26+ML+ENGINEER;DATA+SCIENTIST;DATABASE+ARCHITECT" alt="Typing SVG" />
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=18&duration=3000&pause=1000&color=A0A0A0&center=true&vCenter=true&width=800&lines=Decoding+chaos+into+logic.+Building+the+infrastructure+of+tomorrow.;I+train+silicon+to+dream." alt="Typing SVG Subtitle" />
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1400&color=8B949E&center=true&vCenter=true&width=620&height=28&lines=%2F%2F+decoding+chaos+into+logic.;%2F%2F+building+the+infrastructure+of+tomorrow.;%2F%2F+teaching+silicon+to+dream." alt="decoding chaos into logic · building the infrastructure of tomorrow · teaching silicon to dream" />
+
+  <p>
+    <sub><code>ai / ml</code> &nbsp;·&nbsp; <code>data science</code> &nbsp;·&nbsp; <code>llms</code> &nbsp;·&nbsp; <code>mlops</code> &nbsp;·&nbsp; <code>databases</code></sub>
+  </p>
 </div>
 
 <br/>
@@ -133,13 +135,13 @@
 <h3 align="left"><code>darain@nexus:~/system$ tail -f /var/log/activity.log</code></h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarainHyder&theme=tokyonight&bg_color=0D1117&color=FF2020&line=FF2020&point=FFFFFF&hide_border=false&border_color=FF2020" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph-seven.vercel.app/graph?username=DarainHyder&bg_color=0D1117&color=E6EDF3&line=FF2020&point=FF2020&area=true&area_color=FF2020&hide_border=false&border_color=FF2020&radius=8&custom_title=contribution%20activity" alt="Activity Graph" width="90%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarainHyder&theme=dark&hide_border=false&stroke=FF2020&ring=FF2020&fire=FF4040&currStreakLabel=FF2020&sideLabels=FF2020&border=FF2020" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DarainHyder&theme=dark&hide_border=false&stroke=FF2020&ring=FF2020&fire=FF4040&currStreakLabel=FF2020&sideLabels=FF2020&border=FF2020" alt="GitHub Streak" />
 </div>
 
 <br/>

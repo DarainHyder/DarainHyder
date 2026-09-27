@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
+  <title id="t">Darain Hyder</title>
+  <desc id="d">Terminal: whoami returns Darain Hyder, AI and ML Engineer, Data Scientist, Database Architect.</desc>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#30363D"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0.45" stop-color="#0D1117" stop-opacity="1"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.88" cy="0.2" r="0.5">
+      <stop offset="0" stop-color="#FF2020" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FF2020" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="win"><rect x="1" y="1" width="1198" height="378" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect width="1200" height="380" fill="#0D1117"/>
+    <rect width="1200" height="380" fill="url(#dots)"/>
+    <rect width="1200" height="380" fill="url(#fade)"/>
+    <rect width="1200" height="380" fill="url(#glow)"/>
+    <!-- title bar -->
+    <rect width="1200" height="44" fill="#161B22"/>
+    <line x1="0" y1="44" x2="1200" y2="44" stroke="#30363D"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="379" rx="14" fill="none" stroke="#30363D"/>
+
+  <circle cx="30" cy="22" r="6" fill="#FF2020"/>
+  <circle cx="52" cy="22" r="6" fill="none" stroke="#7D8590" stroke-opacity="0.6"/>
+  <circle cx="74" cy="22" r="6" fill="none" stroke="#7D8590" stroke-opacity="0.6"/>
+
+  <g font-family="'JetBrains Mono','Fira Code','SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
+    <text x="600.0" y="27" text-anchor="middle" font-size="13" fill="#7D8590">darain@nexus — zsh — 120×38</text>
+    <text x="1136" y="350" text-anchor="end" font-size="13" fill="#7D8590">online
+      <tspan fill="#FF2020">●</tspan></text>
+    
+  <text x="64" y="104" font-size="18" opacity="0"><tspan fill="#FF2020">darain@nexus</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#7D8590">$</tspan>
+    <set attributeName="opacity" to="1" begin="0.4s" fill="freeze"/></text>
+  <clipPath id="c1"><rect x="236.79999999999998" y="86" width="0" height="25">
+    <animate attributeName="width" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;100.8" keyTimes="0.0000;0.1429;0.2857;0.4286;0.5714;0.7143;0.8571;1.0000" calcMode="discrete"
+             begin="0.9s" dur="0.60s" fill="freeze"/></rect></clipPath>
+  <text x="236.79999999999998" y="104" clip-path="url(#c1)" font-size="18" font-weight="400" fill="#E6EDF3" >whoami</text>
+  <clipPath id="n1"><rect x="64" y="118" width="0" height="87">
+    <animate attributeName="width" values="0.0;37.2;74.4;111.6;148.8;186.0;223.2;260.4;297.6;334.8;372.0;409.2;446.4;570.4" keyTimes="0.0000;0.0769;0.1538;0.2308;0.3077;0.3846;0.4615;0.5385;0.6154;0.6923;0.7692;0.8462;0.9231;1.0000" calcMode="discrete"
+             begin="1.9500000000000002s" dur="0.67s" fill="freeze"/></rect></clipPath>
+  <text x="64" y="180" clip-path="url(#n1)" font-size="62" font-weight="700" fill="#E6EDF3" letter-spacing="-1">Darain Hyder</text>
+  <text x="64" y="240" font-size="18" opacity="0"><tspan fill="#FF2020">darain@nexus</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#7D8590">$</tspan>
+    <set attributeName="opacity" to="1" begin="3.1166666666666667s" fill="freeze"/></text>
+  <clipPath id="c2"><rect x="236.79999999999998" y="222" width="0" height="25">
+    <animate attributeName="width" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;176.4" keyTimes="0.0000;0.0714;0.1429;0.2143;0.2857;0.3571;0.4286;0.5000;0.5714;0.6429;0.7143;0.7857;0.8571;0.9286;1.0000" calcMode="discrete"
+             begin="3.5166666666666666s" dur="0.93s" fill="freeze"/></rect></clipPath>
+  <text x="236.79999999999998" y="240" clip-path="url(#c2)" font-size="18" font-weight="400" fill="#E6EDF3" >cat roles.txt</text>
+  <text x="64" y="278" font-size="18" fill="#E6EDF3" opacity="0">AI &amp; ML Engineer <tspan fill="#FF2020">/</tspan> Data Scientist <tspan fill="#FF2020">/</tspan> Database Architect
+    <animate attributeName="opacity" from="0" to="1" begin="4.75s" dur="0.4s" fill="freeze"/></text>
+  <text x="64" y="330" font-size="18" opacity="0"><tspan fill="#FF2020">darain@nexus</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#7D8590">$</tspan>
+    <set attributeName="opacity" to="1" begin="5.345238095238095s" fill="freeze"/></text>
+  <rect x="236.8" y="315" width="10" height="20" fill="#FF2020" opacity="0">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s"
+             begin="5.35s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
