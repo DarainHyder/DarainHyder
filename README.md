@@ -8,7 +8,42 @@
   <p>
     <sub><code>ai / ml</code> &nbsp;·&nbsp; <code>data science</code> &nbsp;·&nbsp; <code>llms</code> &nbsp;·&nbsp; <code>mlops</code> &nbsp;·&nbsp; <code>databases</code></sub>
   </p>
+
+  <p>
+    <a href="https://darainhyder.netlify.app"><img src="https://img.shields.io/badge/~%2Fportfolio-open-FF2020?style=for-the-badge&labelColor=000000&logo=netlify&logoColor=FF2020"/></a>
+    <a href="https://www.linkedin.com/in/syed-darain-hyder-kazmi"><img src="https://img.shields.io/badge/~%2Flinkedin-connect-0A66C2?style=for-the-badge&labelColor=000000"/></a>
+    <a href="https://www.fiverr.com/darainhyder"><img src="https://img.shields.io/badge/~%2Ffiverr-profile-1DBF73?style=for-the-badge&labelColor=000000&logo=fiverr&logoColor=1DBF73"/></a>
+    <a href="https://www.upwork.com/freelancers/~016542608fe0bf33cf"><img src="https://img.shields.io/badge/~%2Fupwork-profile-14A800?style=for-the-badge&labelColor=000000&logo=upwork&logoColor=14A800"/></a>
+  </p>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF2020&height=3&width=80%25" width="80%">
+</div>
+
+<br/>
+
+<h3 align="left"><code>darain@nexus:~/system$ ./hire_me.sh --freelance</code></h3>
+
+```bash
+$ whoami --role
+AI Engineer | I build AI that actually ships, not just demos.
+
+$ ls ./services
+AI agents · RAG chatbots · LLM integration · custom ML & computer vision models · full-stack AI web apps
+
+$ ./hire_me.sh --status
+[+] STATUS: open for freelance work. Select a channel below.
+```
+
+<p align="center">
+  <a href="https://www.fiverr.com/s/mmmDB7z"><img src="https://img.shields.io/badge/%24_.%2Fhire--me-fiverr-1DBF73?style=for-the-badge&labelColor=000000&logo=fiverr&logoColor=1DBF73"/></a>
+  <a href="https://www.upwork.com/freelancers/~016542608fe0bf33cf"><img src="https://img.shields.io/badge/%24_.%2Fhire--me-upwork-14A800?style=for-the-badge&labelColor=000000&logo=upwork&logoColor=14A800"/></a>
+  <br/>
+  <a href="https://www.fiverr.com/darainhyder"><img src="https://img.shields.io/badge/%24_cat-fiverr__profile-000000?style=flat-square&labelColor=000000&logo=fiverr&logoColor=1DBF73&color=1DBF73"/></a>
+</p>
 
 <br/>
 
